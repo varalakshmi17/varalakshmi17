@@ -1,7 +1,7 @@
 ![MasterHead](https://assets.rbl.ms/27490650/origin.gif)
 <h1 align="center">Hi 👋, I'm VARA LAKSHMI </h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://assets.rbl.ms/27490650/origin.gif"
+<img align="right" alt="coding" width="400" src=["https://assets.rbl.ms/27490650/origin.gif](https://assets.rbl.ms/27490650/origin.gif)"
 <p align="left"> <img src="https://github.com/varalakshmi17?tab=repositories" alt="varalakshmi" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
