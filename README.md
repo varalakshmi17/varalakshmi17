@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm VARA LAKSHMI </h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tgourisankar&label=Profile%20views&color=0e75b6&style=flat" alt="tgourisankar" /> </p>
+<p align="left"> <img src="https://github.com/varalakshmi17?tab=repositories" alt="varalakshmir" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [[https://www.kaggle.com/tgourisankar](https://github.com/varalakshmi17?tab=repositories)]([https://www.kaggle.com/tgourisankar](https://github.com/varalakshmi17?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://www.kaggle.com/tgourisankar](https://github.com/varalakshmi17?tab=repositories)]([https://www.kaggle.com/tgourisankar](https://github.com/varalakshmi17?tab=repositories)
 
 - 💬 Ask me about **Machine Learning , AI**
 
