@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/tgourisankar](https://www.kaggle.com/tgourisankar)
+- 👨‍💻 All of my projects are available at [[https://www.kaggle.com/tgourisankar](https://github.com/varalakshmi17?tab=repositories)]([https://www.kaggle.com/tgourisankar](https://github.com/varalakshmi17?tab=repositories))
 
 - 💬 Ask me about **Machine Learning , AI**
 
