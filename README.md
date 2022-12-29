@@ -1,4 +1,4 @@
-![MasterHead](https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2019/06/AI-and-ML.gif?w=640)
+![MasterHead](https://assets.rbl.ms/27490650/origin.gif)
 <h1 align="center">Hi 👋, I'm VARA LAKSHMI </h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://assets.rbl.ms/27490650/origin.gif"
